@@ -2,10 +2,10 @@
 
 ### What about me
 
-+ :school:I'm now an undergraduate student in **@HNU** and is going to be a postgraduate in **@SJTU**
++ :school:I'm now an postgraduate student in **@SJTU**
 
 + :telescope:Currently, I am researching **Reinforcement Learning** and **Game Theory**
-+ :e-mail:U can reach me at o0freak0o01716@gmail.com or freak01716@163.com
++ :e-mail:U can reach me at freak01716@sjtu.edu.cn or o0freak0o01716@gmail.com. The former first, plz.
 + :video_game:A faithful lover for **games**
 
 ### Languages & Tools
